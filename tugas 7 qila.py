@@ -2,8 +2,8 @@
 
 a = 24
 b = 48
-# Penjumlahan 
 
+# Penjumlahan 
 hasil = a + b
 print("nilai dari a + b = ", hasil)
 
