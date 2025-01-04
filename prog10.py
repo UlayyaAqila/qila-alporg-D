@@ -19,27 +19,6 @@ print("x <= 9 = ", hasil)
 hasil = x == 9
 print("x == 9 = ", hasil)
 
-# perbandingan - jawaban ada 2 true false
-
-# >,  <, >=,  <=, ==,  !=, is, isnot
-
-x = 8
-
-hasil = x > 9
-print("x > 9 = ", hasil)
-
-hasil = x < 9
-print("x < 9 = ", hasil)
-
-hasil = x >= 9
-print("x >= 9 = ", hasil)
-
-hasil = x <= 9
-print("x <= 9 = ", hasil)
-
-hasil = x == 9
-print("x == 9 = ", hasil)
-
 hasil = x != 9
 print("x != 9 = ", hasil)
 
