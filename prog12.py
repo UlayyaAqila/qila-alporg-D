@@ -2,8 +2,8 @@
 print ("RENTANG ANGKA ULAYYA AQILA")
 print("======Try Thiss=======")
 # Rentang angka
-nim_awal = 24  # NIM awal
-nim_akhir = 48  # NIM akhir
+nim_awal = 2 # NIM awal
+nim_akhir = 8 # NIM akhir
 
 # input dari pengguna
 print(f"Masukkan angka antara {nim_awal} dan {nim_akhir}:")
